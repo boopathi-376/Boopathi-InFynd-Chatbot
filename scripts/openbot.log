@@ -1,0 +1,12 @@
+2025-10-29 12:18:32,615 - uvicorn.error - INFO - Started server process [26772]
+2025-10-29 12:18:32,616 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-29 12:18:33,255 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-10-29 12:18:38,960 - httpx - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-10-29 12:18:38,969 - httpx - INFO - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2025-10-29 12:18:39,033 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-10-29 12:18:39,501 - uvicorn.error - INFO - Application startup complete.
+2025-10-29 12:18:39,501 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-10-29 12:19:09,798 - uvicorn.error - INFO - Shutting down
+2025-10-29 12:19:09,904 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-29 12:19:09,906 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-29 12:19:09,906 - uvicorn.error - INFO - Finished server process [26772]
