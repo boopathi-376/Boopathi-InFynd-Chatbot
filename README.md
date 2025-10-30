@@ -1,6 +1,3 @@
-Here’s a **clean, professional, and submission-ready** version of your `README.md` for **OpenBot Validation & Semantic Retrieval System** — polished for company or project submission with clear structure, Markdown formatting, and concise explanations.
-
----
 
 # 🤖 OpenBot: Validation & Semantic Retrieval System
 
